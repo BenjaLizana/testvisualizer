@@ -49,7 +49,8 @@
     "children": [
         "btnBuscar",
         "flxContainer",
-        "Label0i2547023f98e47"
+        "Label0i2547023f98e47",
+        "Label0fa62c59e2f7048"
     ],
     "containerweight": 100,
     "controllerInfo": {
