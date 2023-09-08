@@ -48,7 +48,8 @@
     "canvasWidth": 1200,
     "children": [
         "btnBuscar",
-        "flxContainer"
+        "flxContainer",
+        "Label0i2547023f98e47"
     ],
     "containerweight": 100,
     "controllerInfo": {
