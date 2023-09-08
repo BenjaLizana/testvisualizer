@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "52%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a8d472063427abe11f2036019f20a",
+    "_text_": "Research in advertising",
+    "_top_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblModel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ec2d0e01bc30408fa131dff40e0fbd5c",
+    "name": "kony.ui.Label",
+    "parent": "CopyflxRow0h948a49a4e784c",
+    "pf": "rowTemplateEmailPreview",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

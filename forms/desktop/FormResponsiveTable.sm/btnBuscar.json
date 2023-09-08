@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "924dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2cd2db1288d4b8390fe7242fa036b02",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc8e6a0d3afa4fd49e23a676d2c0fb3c",
+    "id": "btnBuscar",
+    "ide_onClick": "AS_Button_a50245822e2f4a638556296db871daef",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e46ae8eff73c47138e979420a8ffa7a9",
+    "name": "kony.ui.Button",
+    "parent": "FormResponsiveTable",
+    "pf": "FormResponsiveTable",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "820dp"
+            },
+            "skin": "s2431cc48a0140dfbce1cff956d7ac9b",
+            "text": "Buscar",
+            "top": {
+                "type": "string",
+                "value": "14dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

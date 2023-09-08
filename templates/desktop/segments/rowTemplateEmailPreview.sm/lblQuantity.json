@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "89dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a8d472063427abe11f2036019f20a",
+    "_text_": " Quantity",
+    "_top_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "lblQuantity",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d7147845f141401ca6f46e2c24962cc9",
+    "maxnumberoflines": 2,
+    "name": "kony.ui.Label",
+    "parent": "CopyflxRow0h948a49a4e784c",
+    "pf": "rowTemplateEmailPreview",
+    "texttruncateposition": 0,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

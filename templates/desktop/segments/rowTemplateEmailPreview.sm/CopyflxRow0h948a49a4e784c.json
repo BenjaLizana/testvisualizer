@@ -1,0 +1,58 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "105dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s1b905761bae4cc0a503c82741f35d29",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblProductName",
+        "lblModelText",
+        "lblModel",
+        "lblQuantityText",
+        "lblQuantity",
+        "lblPrice",
+        "imgArrow",
+        "lblHeaderAction"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "CopyflxRow0h948a49a4e784cController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "CopyflxRow0h948a49a4e784c",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "a48482c78e6c4dd589bef0b81c43d6c5",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "rowTemplateEmailPreview",
+    "pf": "rowTemplateEmailPreview",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

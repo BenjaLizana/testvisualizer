@@ -1,0 +1,32 @@
+{
+    "AS_Label_j56ae6d4be804651bfcf0244e4b86899": {
+        "id": "AS_Label_j56ae6d4be804651bfcf0244e4b86899",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "CopytblRowTemplate2",
+            "type": "templates",
+            "platform": "",
+            "KUID": "ce3e0ec5583240a6b6ae4eef564947f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_i45b1c9071a34516a6944c2c2ad9847f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "console.log(self.view.segTable.setData(transaction.body));\nconsole.log(self.view.segTable.getFirstVisibleRow());\n\n\n",
+            "parentId": null
+        }]
+    }
+}

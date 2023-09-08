@@ -1,0 +1,30 @@
+{
+    "AS_Image_a3340affb59a41378b3169459029c709": {
+        "id": "AS_Image_a3340affb59a41378b3169459029c709",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "FormResponsiveTable",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic1efe5a41224cc5b11b607aadd0326c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i642dee3ea3341f7b1ca80cb5032c9c3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.sortArrowClicked(\"imgSorter2\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

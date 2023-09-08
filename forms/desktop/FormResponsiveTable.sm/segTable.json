@@ -1,0 +1,1222 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        },
+        {
+            "accountName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "companyId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "text"
+            },
+            "createdts": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "createdts"
+            },
+            "featureActionId": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            },
+            "featureName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fecha de creación"
+            },
+            "fromAccountNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "amount"
+            },
+            "lblAccountCharge": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblAproveNumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Número de Aprobación"
+            },
+            "lblBeneficiary": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fromAccountNumber"
+            },
+            "lblClientName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cuenta de Cargo"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblImport": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "requestCreatedby"
+            },
+            "lblReference": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Nombre cliente"
+            },
+            "lblType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity"
+            },
+            "requestCreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "status": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Estado"
+            },
+            "userName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "-"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "532dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "sf4f13d468f54124a459cdd93f2db6f7",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTable",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "edac5f554e9c48598c3d2ffe4165edce",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxWebTable",
+    "pf": "FormResponsiveTable",
+    "responsiveData": {
+        "b1": {
+            "data": [
+                {
+                    "accountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "accountName"
+                    },
+                    "companyId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "companyId"
+                    },
+                    "createdts": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "createdts"
+                    },
+                    "featureActionId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "featureActionId"
+                    },
+                    "featureName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "featureName"
+                    },
+                    "fromAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "amount"
+                    },
+                    "lblAccountCharge": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    },
+                    "lblAproveNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblBeneficiary": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblClientName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Cuenta de Cargo"
+                    },
+                    "lblHeaderAction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "acción"
+                    },
+                    "lblImport": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblReference": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Nombre cliente"
+                    },
+                    "lblType": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "featureName"
+                    },
+                    "requestCreatedby": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "status": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "status"
+                    },
+                    "userName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "userName"
+                    }
+                },
+                {
+                    "accountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "companyId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "createdts": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "featureActionId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "featureName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "fromAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblAccountCharge": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblAproveNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblBeneficiary": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblClientName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblHeaderAction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblImport": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblReference": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblType": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "requestCreatedby": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "status": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "userName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                },
+                {
+                    "accountName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "companyId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "createdts": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "featureActionId": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "featureName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "fromAccountNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblAccountCharge": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblAproveNumber": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblBeneficiary": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblClientName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblHeaderAction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblImport": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblReference": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblType": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "requestCreatedby": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "status": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "userName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                }
+            ],
+            "height": {
+                "type": "string",
+                "value": "95%"
+            },
+            "rowTemplate": "ce3e0ec5583240a6b6ae4eef564947f2",
+            "sectionHeaderTemplate": null,
+            "widgetDataMap": {
+                "CopyFlxTblRowTemplate2": "CopyFlxTblRowTemplate2",
+                "FlexContaineDetails": "FlexContaineDetails",
+                "FlexContainer0b2d57b99766748": "FlexContainer0b2d57b99766748",
+                "accountName": "accountName",
+                "companyId": "companyId",
+                "createdts": "createdts",
+                "featureActionId": "featureActionId",
+                "featureName": "featureName",
+                "flxAction": "flxAction",
+                "flxOperationDate": "flxOperationDate",
+                "flxOperationType": "flxOperationType",
+                "flxStatus": "flxStatus",
+                "flxType": "flxType",
+                "fromAccountNumber": "fromAccountNumber",
+                "lblAccountCharge": "lblAccountCharge",
+                "lblAproveNumber": "lblAproveNumber",
+                "lblBeneficiary": "lblBeneficiary",
+                "lblClientName": "lblClientName",
+                "lblHeaderAction": "lblHeaderAction",
+                "lblImport": "lblImport",
+                "lblReference": "lblReference",
+                "lblType": "lblType",
+                "requestCreatedby": "requestCreatedby",
+                "status": "status",
+                "userName": "userName"
+            },
+            "width": {
+                "type": "string",
+                "value": "99.18%"
+            }
+        },
+        "b3": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ce3e0ec5583240a6b6ae4eef564947f2",
+    "rowcounter": 2,
+    "rowfocusskin": "sda86f86fed9486ba11175d4310ae2a9",
+    "rowskin": "s9b13f65f0d54e11a022377a160eb977",
+    "rowtemplate": "CopyFlxTblRowTemplate2",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s44833aed3ab4b7dbde16c189ace5092",
+    "sectionheadertemplate": null,
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "97979746",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlxTblRowTemplate2": "CopyFlxTblRowTemplate2",
+        "FlexContaineDetails": "FlexContaineDetails",
+        "FlexContainer0b2d57b99766748": "FlexContainer0b2d57b99766748",
+        "accountName": "accountName",
+        "companyId": "companyId",
+        "createdts": "createdts",
+        "featureActionId": "featureActionId",
+        "featureName": "featureName",
+        "flxAction": "flxAction",
+        "flxOperationDate": "flxOperationDate",
+        "flxOperationType": "flxOperationType",
+        "flxStatus": "flxStatus",
+        "flxType": "flxType",
+        "fromAccountNumber": "fromAccountNumber",
+        "lblAccountCharge": "lblAccountCharge",
+        "lblAproveNumber": "lblAproveNumber",
+        "lblBeneficiary": "lblBeneficiary",
+        "lblClientName": "lblClientName",
+        "lblHeaderAction": "lblHeaderAction",
+        "lblImport": "lblImport",
+        "lblReference": "lblReference",
+        "lblType": "lblType",
+        "requestCreatedby": "requestCreatedby",
+        "status": "status",
+        "userName": "userName"
+    },
+    "zindex": 1
+}

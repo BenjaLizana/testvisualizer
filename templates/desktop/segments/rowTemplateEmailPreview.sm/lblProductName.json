@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5164033b1134d1ab135304f050161ec",
+    "_text_": "Wayne Stanley",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblProductName",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d9227a3ec4fe461ea565534dc4a987c2",
+    "maxwidth": {
+        "type": "string",
+        "value": "50%"
+    },
+    "name": "kony.ui.Label",
+    "parent": "CopyflxRow0h948a49a4e784c",
+    "pf": "rowTemplateEmailPreview",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

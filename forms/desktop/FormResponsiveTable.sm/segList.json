@@ -1,0 +1,622 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 12"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$50.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 1"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "100"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 11"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$40.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 2"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "430"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 10"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$22.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 3"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "300"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 9"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$67.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 4"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "230"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 8"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$76.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 5"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "800"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 7"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$50.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 6"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "600"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 6"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$32.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 7"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "700"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 5"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$86.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 8"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "518"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 4"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$97.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 9"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "450"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 3"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$43.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 10"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "760"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 2"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$20.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 11"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "400"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        },
+        {
+            "imgArrow": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron.png"
+            },
+            "lblHeaderAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View"
+            },
+            "lblModel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model 1"
+            },
+            "lblModelText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Model :"
+            },
+            "lblPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$10.00"
+            },
+            "lblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Example Product 12"
+            },
+            "lblQuantity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "453"
+            },
+            "lblQuantityText": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Quantity :"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segList",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "c2bf68b365444d39bff34588851c9605",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContainer",
+    "pf": "FormResponsiveTable",
+    "responsiveData": {
+        "b1": {
+            "data": [
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "listboxarw.png"
+                    },
+                    "lblHeaderAction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Ver detalles"
+                    },
+                    "lblModel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Model 12"
+                    },
+                    "lblModelText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Model :"
+                    },
+                    "lblPrice": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$50.00"
+                    },
+                    "lblProductName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Example Product 1"
+                    },
+                    "lblQuantity": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "100"
+                    },
+                    "lblQuantityText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Quantity :"
+                    }
+                },
+                {
+                    "imgArrow": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "listboxarw.png"
+                    },
+                    "lblHeaderAction": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Ver detalles"
+                    },
+                    "lblModel": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Model 11"
+                    },
+                    "lblModelText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Model :"
+                    },
+                    "lblPrice": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "$40.00"
+                    },
+                    "lblProductName": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Example Product 2"
+                    },
+                    "lblQuantity": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "430"
+                    },
+                    "lblQuantityText": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Quantity :"
+                    }
+                }
+            ],
+            "isVisible": false
+        },
+        "b2": {
+            "isVisible": false
+        },
+        "b3": {
+            "left": {
+                "type": "string",
+                "value": "-2.50%"
+            },
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            }
+        }
+    },
+    "retainselection": false,
+    "rowTemplateId": "a11aded155c545fbbab16bd31fbd1d1b",
+    "rowcounter": 1,
+    "rowfocusskin": "s58b5fe63aca4a5b93f53a5ce8e6a998",
+    "rowskin": "s29136b07bb64d61b63780a5e9e7262e",
+    "rowtemplate": "CopyflxRow0h948a49a4e784c",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s2b419bcf1204e3990dcc2f402477564",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d3d3d300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyflxRow0h948a49a4e784c": "CopyflxRow0h948a49a4e784c",
+        "imgArrow": "imgArrow",
+        "lblHeaderAction": "lblHeaderAction",
+        "lblModel": "lblModel",
+        "lblModelText": "lblModelText",
+        "lblPrice": "lblPrice",
+        "lblProductName": "lblProductName",
+        "lblQuantity": "lblQuantity",
+        "lblQuantityText": "lblQuantityText"
+    },
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 1
+}

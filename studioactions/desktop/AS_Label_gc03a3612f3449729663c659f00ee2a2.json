@@ -1,0 +1,30 @@
+{
+    "AS_Label_gc03a3612f3449729663c659f00ee2a2": {
+        "id": "AS_Label_gc03a3612f3449729663c659f00ee2a2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "FormResponsiveTable",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ic1efe5a41224cc5b11b607aadd0326c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fdf17d1aa031405caeaa94ca3ea23625",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.sortArrowClicked(\"imgSorter3\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
