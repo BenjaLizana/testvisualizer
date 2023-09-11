@@ -1,6 +1,5 @@
 {
     "DNDConfig": null,
-    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
         "value": "100%"
@@ -45,7 +44,9 @@
         "lblPriceText",
         "lblPriceValue",
         "lblQuantityText",
-        "lblQuantityValue"
+        "lblQuantityValue",
+        "ListBox0facdfe7dfc224f",
+        "RadioButtonGroup0j04b1d29b1564e"
     ],
     "clipbounds": true,
     "containerweight": 100,

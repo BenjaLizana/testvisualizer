@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        2,
+        1,
+        1
+    ],
     "_skin_": "s3c0309481834b7e859294b16b610f15",
     "_title_": null,
     "addWidgetsdone": false,
@@ -42,7 +47,8 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "flxDetailsContainer"
+        "flxDetailsContainer",
+        "Image0ebed3a4a673e4e"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -92,7 +98,6 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "desktop",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

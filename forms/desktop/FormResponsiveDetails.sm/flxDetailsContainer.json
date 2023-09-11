@@ -1,6 +1,5 @@
 {
     "DNDConfig": null,
-    "__parentReadjusting__": false,
     "_bottom_": {
         "type": "string",
         "value": ""
@@ -54,7 +53,8 @@
     "children": [
         "flxBack",
         "flxPhotos",
-        "flxDetails"
+        "flxDetails",
+        "TextArea0b877dae9fa154f"
     ],
     "clipbounds": true,
     "containerweight": 100,
