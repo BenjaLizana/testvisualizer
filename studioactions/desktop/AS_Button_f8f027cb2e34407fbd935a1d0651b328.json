@@ -1,0 +1,22 @@
+{
+    "AS_Button_f8f027cb2e34407fbd935a1d0651b328": {
+        "id": "AS_Button_f8f027cb2e34407fbd935a1d0651b328",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "FormResponsiveTable",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ic1efe5a41224cc5b11b607aadd0326c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d55b8da074c540bcac0565893296ea5c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var transaction = `{\n  \"status\": 200,\n  \"body\": [\n    {\n      \"transactionId\": 36,\n      \"featureActionId\": \"CCE_ACCOUNT_FUND_TRANSFER_CREATE\",\n      \"featureName\": \"CCE Account to Account Fund Transfer \",\n      \"fromAccountNumber\": \"1000001992\",\n      \"amount\": 3,\n      \"requestId\": 736,\n      \"createdby\": \"5473250810\",\n      \"createdts\": \"2023-06-07T13:23:30\",\n      \"frequencyTypeId\": \"\",\n      \"status\": \"PENDING\",\n      \"numberOfRecurrences\": \"\",\n      \"payeeId\": \"\",\n      \"companyId\": \"9370947080_100333\",\n      \"scheduledDate\": \"2023-06-07T13:23:30\",\n      \"accountName\": \"Cta corriente Cta Cte No Rem\",\n      \"userName\": \"9030651113\",\n      \"requestCreatedby\": \"5473250810\",\n      \"amICreator\": \"false\",\n      \"amIApprover\": \"true\",\n      \"receivedApprovals\": 0,\n      \"requiredApprovals\": 1\n    },\n    {\n      \"transactionId\": 35,\n      \"featureActionId\": \"CCE_ACCOUNT_FUND_TRANSFER_CREATE\",\n      \"featureName\": \"CCE Account to Account Fund Transfer \",\n      \"fromAccountNumber\": \"1000001992\",\n      \"amount\": 2,\n      \"requestId\": 735,\n      \"createdby\": \"5473250810\",\n      \"createdts\": \"2023-06-07T13:13:06\",\n      \"frequencyTypeId\": \"\",\n      \"status\": \"PENDING\",\n      \"numberOfRecurrences\": \"\",\n      \"payeeId\": \"\",\n      \"companyId\": \"9370947080_100222\",\n      \"scheduledDate\": \"2023-06-07T13:13:06\",\n      \"accountName\": \"Cta corriente Cta Cte No Rem\",\n      \"userName\": \"9030651113\",\n      \"requestCreatedby\": \"5473250810\",\n      \"amICreator\": \"false\",\n      \"amIApprover\": \"true\",\n      \"receivedApprovals\": 0,\n      \"requiredApprovals\": 1\n    }\n  ]\n}`; \n\ntransaction=JSON.parse(transaction);\nconsole.log('Transactions: ',transaction.body);\nself.view.segTable.setData(transaction.body);\n\n//console.log(transaction.body['0']['amount']);\n\nvar jsonData = self.view.segTable.setData(transaction.body);\n\nvar valor = jsonData.kony;\n\nconsole.log(valor);\n\n \n\n"
+        }]
+    }
+}
