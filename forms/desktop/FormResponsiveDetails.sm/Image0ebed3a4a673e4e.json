@@ -43,6 +43,18 @@
     "name": "kony.ui.Image2",
     "parent": "FormResponsiveDetails",
     "pf": "FormResponsiveDetails",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "190dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

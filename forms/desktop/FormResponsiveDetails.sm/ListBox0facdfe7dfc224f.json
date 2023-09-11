@@ -59,6 +59,18 @@
     "name": "kony.ui.ListBox",
     "parent": "flxDetails",
     "pf": "FormResponsiveDetails",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "240dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "78dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": null,

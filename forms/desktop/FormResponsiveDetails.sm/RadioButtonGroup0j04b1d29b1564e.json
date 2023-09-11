@@ -71,6 +71,18 @@
     "name": "kony.ui.RadioButtonGroup",
     "parent": "flxDetails",
     "pf": "FormResponsiveDetails",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "string",
+                "value": "270dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "52dp"
+            }
+        }
+    },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "selectedkey": null,

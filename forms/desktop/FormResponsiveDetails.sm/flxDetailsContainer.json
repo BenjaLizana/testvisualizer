@@ -40,7 +40,6 @@
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
@@ -70,6 +69,10 @@
     "pf": "FormResponsiveDetails",
     "responsiveData": {
         "b1": {
+            "height": {
+                "type": "string",
+                "value": "447dp"
+            },
             "skin": "sfa7e0eac0984bf4b05fe19108ccc96c"
         },
         "b2": {
