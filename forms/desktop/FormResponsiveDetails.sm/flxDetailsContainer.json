@@ -52,8 +52,7 @@
     "children": [
         "flxBack",
         "flxPhotos",
-        "flxDetails",
-        "TextArea0b877dae9fa154f"
+        "flxDetails"
     ],
     "clipbounds": true,
     "containerweight": 100,
@@ -71,7 +70,7 @@
         "b1": {
             "height": {
                 "type": "string",
-                "value": "447dp"
+                "value": "820dp"
             },
             "skin": "sfa7e0eac0984bf4b05fe19108ccc96c"
         },

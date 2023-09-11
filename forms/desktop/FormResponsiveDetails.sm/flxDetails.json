@@ -45,8 +45,10 @@
         "lblPriceValue",
         "lblQuantityText",
         "lblQuantityValue",
+        "CopyListBox0b59143128a7a4a",
         "ListBox0facdfe7dfc224f",
         "RadioButtonGroup0j04b1d29b1564e",
+        "TextField0caa78cc0d4564a",
         "Label0gbc4b011fb8944"
     ],
     "clipbounds": true,
@@ -66,6 +68,10 @@
             "left": {
                 "type": "string",
                 "value": "15dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "82.46%"
             }
         },
         "b3": {

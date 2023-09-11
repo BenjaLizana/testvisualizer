@@ -1,5 +1,5 @@
 {
-    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
     "DNDConfig": null,
     "_height_": {
         "type": "string",
@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "242dp"
+        "value": "183dp"
     },
     "_margin_": [
         0,
@@ -16,84 +16,66 @@
         0
     ],
     "_padding_": [
-        0,
+        3,
         0,
         0,
         0
     ],
-    "_skin_": "s0fa4f89db124f6180271a37aeea23c2",
+    "_placeholder_": "Please Select",
+    "_skin_": "s8daef8146ba46c2960ae6fd99da1b93",
     "_top_": {
         "type": "string",
-        "value": "52dp"
+        "value": "78dp"
     },
     "_width_": {
         "type": "string",
         "value": "300dp"
     },
-    "android": {
-        "psp": {
-            "viewType": 0
-        }
-    },
     "canUpdateUI": true,
     "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s2b71e80abaa4324abad2843a4c08a61",
     "groupcells": false,
-    "id": "RadioButtonGroup0j04b1d29b1564e",
+    "id": "CopyListBox0b59143128a7a4a",
     "info": null,
-    "ipad": {
-        "psp": {
-            "viewType": 0
-        }
-    },
-    "iphone": {
-        "psp": {
-            "viewType": 0
-        }
-    },
     "iscustomlayout": false,
     "isvisible": true,
-    "itemorientation": "vertical",
-    "kuid": "dffa861593b84cdcb965132ee8a71c0a",
+    "kuid": "e1a38b1966c746b2a3eaa77d1b61908d",
     "masterdata": [
         [
-            "rbg1",
-            "Radiobutton One"
+            "lb1",
+            "Placeholder One"
         ],
         [
-            "rbg2",
-            "Radiobutton Two"
+            "lb2",
+            "Placeholder Two"
         ],
         [
-            "rbg3",
-            "Radiobutton Three"
+            "lb3",
+            "Placeholder Three"
         ]
     ],
-    "name": "kony.ui.RadioButtonGroup",
+    "name": "kony.ui.ListBox",
     "parent": "flxDetails",
     "pf": "FormResponsiveDetails",
     "responsiveData": {
         "b1": {
-            "height": {
-                "type": "string",
-                "value": "154dp"
-            },
             "left": {
                 "type": "string",
-                "value": "515dp"
+                "value": "231dp"
             },
             "top": {
                 "type": "string",
-                "value": "52dp"
+                "value": "78dp"
             }
         }
     },
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "selectedkey": "rbg2",
-    "selectedkeyvalue": [
-        "rbg2",
-        "Radiobutton Two"
-    ],
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
     "size": 18,
     "viewconfig": {
         "toggleViewConfig": {
@@ -101,7 +83,6 @@
         }
     },
     "viewtype": 0,
-    "wType": "RadioButtonGroup",
-    "widgetalignment": 5,
+    "wType": "ListBox",
     "zindex": 1
 }

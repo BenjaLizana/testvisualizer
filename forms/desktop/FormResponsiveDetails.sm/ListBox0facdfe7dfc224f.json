@@ -63,7 +63,7 @@
         "b1": {
             "left": {
                 "type": "string",
-                "value": "240dp"
+                "value": "45dp"
             },
             "top": {
                 "type": "string",

@@ -48,7 +48,8 @@
     "canvasWidth": 1200,
     "children": [
         "flxDetailsContainer",
-        "Image0ebed3a4a673e4e"
+        "Image0ebed3a4a673e4e",
+        "CopyImage0gf278522f5ae48"
     ],
     "containerweight": 100,
     "controllerInfo": {
